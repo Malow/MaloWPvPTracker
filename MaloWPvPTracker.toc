@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: MaloWPvPTracker
+## DefaultState: enabled
+## Notes: MaloWPvPTracker
+## Version 1
+## Author: MaloW
+## Dependencies: MaloWUtils
+## SavedVariables: mpt_sv
+
+MaloWPvPTracker.lua
+MaloWPvPTracker.xml
+
+DivineShield.tga
